@@ -39,7 +39,7 @@ app.use("/", routes);
 
 
 
-   mongoose.connect("mongodb://admin:admin@ds215089.mlab.com:15089/heroku_6phm3dhh");
+mongoose.connect("mongodb://heroku_7j5sklhk:t021egb4jlk7gu7c349etdn2lr@ds149278.mlab.com:49278/heroku_7j5sklhk", { useNewUrlParser: true });
 
 
 var db = mongoose.connection;

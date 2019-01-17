@@ -16,6 +16,9 @@ p {
     width: 50%;
 }
 
+.body {
+    background-color: bisque;
+}
 .jumbotron {
   overflow: hidden;
     background-size: 50%;

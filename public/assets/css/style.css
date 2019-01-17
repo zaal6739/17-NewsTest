@@ -20,12 +20,12 @@ p {
     background-color: bisque;
 }
 .jumbotron {
-  overflow: hidden;
-    background-size: 50%;
+  /* overflow: hidden; */
+    /* background-size: 75%; */
     background-position: center;
-    background-image: url('../images/apLogo.png');
+    background-image: url('../images/ap.png');
     background-repeat: no-repeat;
-    height: 200px;
+    height: 400px;
     width: 100%;
 }
 
